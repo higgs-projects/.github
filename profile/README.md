@@ -1,12 +1,23 @@
 ## 欢迎来到Higgs Projects 👋
 
-<!--
+Higgs项目致力于研究和推广数字化行业的底层技术、底层逻辑，提升大部分中国程序员对计算机底层逻辑的认知，从而激发更多的底层创新。
+  
+- 人工智能的基础知识，剖析机器学习算法的底层数学原理
+  - 线下代数、概率论等基础知识
+  - 经典机器学习
+  - 深度学习算法
+    
+- 操作系统知识
+  - 基本操作系统原理、简单的硬件知识、构建编译工具链，实现一个操作系统并能开发应用
+  - 了解虚拟化、虚拟网络等云计算的基础
 
-**Here are some ideas to get you started:**
+- 数据库知识
+  - 常见的算法介绍
+  - 开源的数据库研究（Redis、OceanBase）
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 多媒体与网络传输
+  - 基于ffmepg研究多媒体压缩解压缩算法
+  - 即时通讯的消息传递
+  - 基于webrtc研究实时音视频传输
+
+
